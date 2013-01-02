@@ -11,7 +11,7 @@ you'll need to edit `solo.rb` to point to wherever you unzip this.
 
 (I could make `solo.rb` more complicated to eliminate the
 need for you to tinker with it, but that is not the point.
-You should tinker with this until it works. It is a toy. Have fun and learn.)
+You should tinker with it. It is a toy. Have fun and learn.)
 
 ## Why 'Reinheitsgebot'?
 
