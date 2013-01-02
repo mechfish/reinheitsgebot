@@ -1,0 +1,4 @@
+# If Chef ends up adding some files to your working copy that
+# you don't want to add to a repository, you can put those files here.
+
+./chef-stacktrace.out
