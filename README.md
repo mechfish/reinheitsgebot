@@ -10,7 +10,7 @@ Use it with [Chef Solo](), like this:
 
 It's the [simpest recipe that could possibly work.](https://en.wikipedia.org/wiki/Reinheitsgebot) 
 The results are surprisingly complex. Try 
-[koelsch](https://en.wikipedia.org/wiki/Kölsch_(beer)), 
+[Kölsch](https://en.wikipedia.org/wiki/Kölsch_(beer),
 or if you don't need to get any more work done today,
 [Aventinus Weizen-Eisbock](https://en.wikipedia.org/wiki/G._Schneider_%26_Sohn).
 
